@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <div align="center"><img src="Black and Red Gradient Professional LinkedIn Banner.jpg"></div>
 <h3 align="center">A passionate Full-Stack developer with Laravel and also working with Machine Learning</h3>
-
+<img align="right" src="programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat" alt="anik85" /> </p>
 
