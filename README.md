@@ -35,11 +35,11 @@
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Anik85/Anik85/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/Anik85/Anik85/blob/output/github-contribution-grid-snake.gif)
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
