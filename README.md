@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <h3 align="center">A passionate Full-Stack developer with Laravel and also working with Machine Learning</h3>
-<p align="right"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ibidunniridwanaljebrah%2Fintermediate-java-developer-bd1ae4109ea6&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODo7YfU4IEDFQAAAAAdAAAAABAJ" alt="coding" /> </p>
+<p align="left"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ibidunniridwanaljebrah%2Fintermediate-java-developer-bd1ae4109ea6&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODo7YfU4IEDFQAAAAAdAAAAABAJ" alt="coding" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat" alt="anik85" /> </p>
 
