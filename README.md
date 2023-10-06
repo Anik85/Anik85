@@ -1,5 +1,12 @@
 <div align="center"><img src="Black and Red Gradient Professional LinkedIn Banner.jpg"></div>
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
 <h3 align="center">A passionate Full-Stack developer with Laravel and also working with Machine Learning</h3>
 <img align="right" width="300" src="programmer.gif">
 
