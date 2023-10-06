@@ -1,9 +1,10 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F118852877657025652%2F&psig=AOvVaw2n_75IyqVZ0Ei0hZY7DIxu&ust=1696653908937000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiix77O4IEDFQAAAAAdAAAAABAJ)]
+
 
 
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <h3 align="center">A passionate Full-Stack developer with Laravel and also working with Machine Learning</h3>
-<img align="right" src="[[https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi5iMLN4IEDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODo7YfU4IEDFQAAAAAdAAAAABAE)" width="400" alt="coding" />
+<img src="[[https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi5iMLN4IEDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODo7YfU4IEDFQAAAAAdAAAAABAE)" align="right" alt="coding" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat" alt="anik85" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik85" alt="anik85" /></a> </p>
