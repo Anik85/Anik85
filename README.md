@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <h3 align="center">A passionate Full-Stack developer with Laravel and also working with Machine Learning</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi5iMLN4IEDFQAAAAAdAAAAABAE" alt="cosing gif"/>
+<img align="right" src="[https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi5iMLN4IEDFQAAAAAdAAAAABAE)" width="400" alt="coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat" alt="anik85" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik85" alt="anik85" /></a> </p>
