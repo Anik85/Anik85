@@ -1,5 +1,5 @@
 <div align="center"><img src="Black and Red Gradient Professional LinkedIn Banner.jpg"></div>
-<h1 align="center">Hi 👋, I'm Anik Barua</h1>
+<!-- <h1 align="center">Hi 👋, I'm Anik Barua</h1> -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Anik85.Anik85" />
 <h1 align="center">
