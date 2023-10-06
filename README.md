@@ -29,7 +29,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik85" alt="anik85" /></a> </p>
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik85&show_icons=true&locale=en&layout=compact" alt="anik85" />
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik85&show_icons=true&locale=en&layout=compact" alt="anik85" />
   <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=anik85&" alt="anik85" />
   <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=anik85&show_icons=true&locale=en" alt="anik85" />
 </div>
