@@ -1,13 +1,11 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
+<div><img src="[Black and Red Gradient Professional LinkedIn Banner.jpg](https://github.com/Anik85/Anik85/blob/5f8ac1a5ecb32807d22589f4c12eec9ec6d070c7/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.jpg)"></div>
 <h3 align="center">A passionate Full-Stack developer with Laravel and also working with Machine Learning</h3>
-<p align="left"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ibidunniridwanaljebrah%2Fintermediate-java-developer-bd1ae4109ea6&psig=AOvVaw2Tfn-LBIQtn3ne3xG5z9kp&ust=1696653647129000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODo7YfU4IEDFQAAAAAdAAAAABAJ" alt="coding" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat" alt="anik85" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik85" alt="anik85" /></a> </p>
+
 
 - 🔭 I’m currently working on [MECOM Ecommerce](https://github.com/Anik85/Mecom-Ecommerce)
 
