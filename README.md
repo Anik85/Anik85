@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <div align="center"><img src="Black and Red Gradient Professional LinkedIn Banner.jpg"></div>
+<h1 align="center">Hi 👋, I'm Anik Barua</h1>
 <h3 align="center">A passionate Full-Stack developer with Laravel and also working with Machine Learning</h3>
-<img align="right" width="400" src="programmer.gif">
+<img align="right" width="300" src="programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik85&label=Profile%20views&color=0e75b6&style=flat" alt="anik85" /> </p>
 
@@ -29,9 +29,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik85" alt="anik85" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik85&show_icons=true&locale=en&layout=compact" alt="anik85" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik85&" alt="anik85" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik85&show_icons=true&locale=en" alt="anik85" /></p>
+<p><img align="left" wid src="https://github-readme-stats.vercel.app/api/top-langs?username=anik85&show_icons=true&locale=en&layout=compact" alt="anik85" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anik85&" alt="anik85" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik85&show_icons=true&locale=en" alt="anik85" /></p>
 
 
 
