@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anik Barua</h1>
-<div><img src="[Black and Red Gradient Professional LinkedIn Banner.jpg](https://github.com/Anik85/Anik85/blob/5f8ac1a5ecb32807d22589f4c12eec9ec6d070c7/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.jpg)"></div>
+<div align="center"><img src="Black and Red Gradient Professional LinkedIn Banner.jpg"></div>
 <h3 align="center">A passionate Full-Stack developer with Laravel and also working with Machine Learning</h3>
 
 
